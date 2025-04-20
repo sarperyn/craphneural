@@ -1,0 +1,3 @@
+[submodule "external/external/sudoku_generator"]
+	path = external/external/sudoku_generator
+	url = https://github.com/vaithak/Sudoku-Generator.git
